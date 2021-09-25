@@ -1,0 +1,2 @@
+rootProject.name = "local-json-server"
+include ':app'
